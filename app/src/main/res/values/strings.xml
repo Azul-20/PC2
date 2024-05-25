@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecuperacionLaboratorioCalificado02</string>
+    <string name="title">Examen Calificado 02 Recuperación</string>
+    <string name="textShow">Mostrar</string>
+    <string name="textHide">Ocultar</string>
+    <string name="description">Logo Pokemon</string>
+    <string name="title2">Registro de Contactos</string>
+    <string name="name">Nombres</string>
+    <string name="lastname">Apellidos</string>
+    <string name="phone">Número de celular</string>
+    <string name="address">Dirección</string>
+    <string name="btnSave">Guardar</string>
+    <string name="title3">Contacto Guardado</string>
+    <string name="txtUser">Nombres</string>
+</resources>
